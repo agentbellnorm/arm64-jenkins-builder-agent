@@ -5,6 +5,8 @@ The goal of this is to have an image that can run as a jenkins worker where
 - kubernetes is k3s on raspberry pi 4
 - architecture is arm64
 - it can run node, npm and yarn
+- it can build and push images with podman
+- it can deploy with kubectl
 
 ### build:
 
